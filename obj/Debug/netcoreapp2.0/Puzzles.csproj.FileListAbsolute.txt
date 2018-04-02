@@ -1,0 +1,11 @@
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Puzzles\bin\Debug\netcoreapp2.0\Puzzles.deps.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Puzzles\bin\Debug\netcoreapp2.0\Puzzles.runtimeconfig.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Puzzles\bin\Debug\netcoreapp2.0\Puzzles.runtimeconfig.dev.json
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Puzzles\bin\Debug\netcoreapp2.0\Puzzles.dll
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Puzzles\bin\Debug\netcoreapp2.0\Puzzles.pdb
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Puzzles\obj\Debug\netcoreapp2.0\Puzzles.csprojResolveAssemblyReference.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Puzzles\obj\Debug\netcoreapp2.0\Puzzles.csproj.CoreCompileInputs.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Puzzles\obj\Debug\netcoreapp2.0\Puzzles.AssemblyInfoInputs.cache
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Puzzles\obj\Debug\netcoreapp2.0\Puzzles.AssemblyInfo.cs
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Puzzles\obj\Debug\netcoreapp2.0\Puzzles.dll
+C:\Users\Trinaryguru\Desktop\DojoAssignments\C_Sharp\Puzzles\obj\Debug\netcoreapp2.0\Puzzles.pdb
